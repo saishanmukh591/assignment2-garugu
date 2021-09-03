@@ -11,3 +11,9 @@ Goa is widely known as India's party district, and is visited by thousands of **
 2. Take a flight to Delhi, India.
 3. After getting off the flight, take a cab to nearest tourist agency.
 4. Plan your trip and enjoy.
+
+* Carry a camera to capture your memories.
+* Bring a pair of trekking shoes.
+* Sun glasses.
+* Swimwear.
+* Shorts and Cotton Trousers which Keeps you cool in hot sun.
