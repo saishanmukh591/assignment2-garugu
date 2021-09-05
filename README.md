@@ -34,8 +34,10 @@ The below tables gives the information about the recommended foods/drinks in Hyd
 
 # Quotes
 
-> To live is the rarest thing in the world. Most people exist, that is all. – Oscar Wilde
+> Money is a tool, so I don't have to be. – Eddie Mumford
 > 
-> Never let the fear of striking out keep you from playing the game. – Babe Ruth
+> It's always darkest before you're blinded by the light. – josh stern
+
+---
 
 [About me](AboutMe.md)
