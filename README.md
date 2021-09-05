@@ -30,4 +30,12 @@ The below tables gives the information about the recommended foods/drinks in Hyd
 |   Dosa     | Ram ki bandi | $5 |
 |   Oreo     | Cream Stome | $7 |
 
+---
+
+# Quotes
+
+> To live is the rarest thing in the world. Most people exist, that is all. – Oscar Wilde
+> 
+> Never let the fear of striking out keep you from playing the game. – Babe Ruth
+
 [About me](AboutMe.md)
