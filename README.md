@@ -40,4 +40,23 @@ The below tables gives the information about the recommended foods/drinks in Hyd
 
 ---
 
+# Fibonacci Series
+
+> The Fibonacci sequence is a set of numbers that starts with a one or a zero, followed by a one, and proceeds based on the rule that each number (called a Fibonacci number) is equal to the sum of the preceding two numbers.  To read more click on this link <https://whatis.techtarget.com/definition/Fibonacci-sequence>
+
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+```
+
 [About me](AboutMe.md)
