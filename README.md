@@ -20,4 +20,14 @@ Goa is widely known as India's party district, and is visited by thousands of **
 
 ---
 
+# Recommended Foods/drinks
+The below tables gives the information about the recommended foods/drinks in Hyderabad.
+ 
+| Food/Drink | Location | Price |
+|------------|--------|------|
+|   Briyani  | Paradise   | $10 |
+|   Haleem   | Pista House| $12 |
+|   Dosa     | Ram ki bandi | $5 |
+|   Oreo     | Cream Stome | $7 |
+
 [About me](AboutMe.md)
